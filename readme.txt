@@ -1,4 +1,4 @@
-=== Animate On Scroll WP ===
+=== bS Animate On Scroll ===
 
 Contributors: craftwerk
 
