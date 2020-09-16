@@ -9,7 +9,7 @@ Stable tag: 1.0.0
 License: GNU General Public License v2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-Animate On Scroll Plugin for WordPress, Copyright 2020 Bastian Kreiter.
+Animate On Scroll by Michał Sajnóg https://michalsnik.github.io/aos/ Plugin for WordPress, Copyright 2020 Bastian Kreiter.
 
 
 == Installation ==
